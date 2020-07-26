@@ -1,0 +1,19 @@
+@import './html-css.scss';
+@import './sass.scss';
+@import './testimonial.scss';
+@import './bootstrap.scss';
+@import './javascript.scss';
+@import './footer.scss';
+
+html{
+    scroll-behavior: smooth;
+}
+h2{
+    font-family: 'Ubuntu', sans-serif;
+}
+.h4{
+    font-family: 'Ubuntu', sans-serif;
+}
+p{
+    font-family: 'Alegreya', serif;
+}

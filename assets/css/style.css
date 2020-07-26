@@ -1,0 +1,57 @@
+#html-css {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to top, #5d9b9b, transparent); }
+  #html-css .flex {
+    display: flex; }
+
+#sass {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to top, #edb4b8, transparent); }
+  #sass .flex {
+    display: flex; }
+
+.testimonial {
+  text-align: center;
+  padding: 50px 0 30px 0; }
+
+#bootstrap {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to top, #cb99c9, transparent); }
+  #bootstrap .col-md-6 {
+    display: flex;
+    align-items: center; }
+
+#js {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to top, #fdfd96, transparent); }
+  #js .flex {
+    display: flex; }
+
+footer {
+  background-color: #f1f1f1; }
+  footer .container {
+    padding: 2% 0 2% 0;
+    display: flex;
+    justify-content: center; }
+
+html {
+  scroll-behavior: smooth; }
+
+h2 {
+  font-family: 'Ubuntu', sans-serif; }
+
+.h4 {
+  font-family: 'Ubuntu', sans-serif; }
+
+p {
+  font-family: 'Alegreya', serif; }
+
+/*# sourceMappingURL=style.css.map */

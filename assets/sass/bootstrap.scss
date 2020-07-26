@@ -1,0 +1,11 @@
+#bootstrap{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top, #cb99c9, transparent);
+   
+    .col-md-6{
+        display: flex;
+        align-items: center;
+    }
+}
